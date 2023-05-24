@@ -1,0 +1,14 @@
+.img-background
+{
+    background-image: url(./mountains2.png), url(./mountains.png), linear-gradient(rgb(253, 239, 239), rgba(238, 238, 238, 0.152)), url(./switzerland-862870_1920.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+h1
+{
+    color: red;
+    border: 2px solid white;
+    background-position: center;
+}
